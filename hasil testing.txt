@@ -1,0 +1,31 @@
+Samsung A22 5G(jalan 60.2~60.4 fps, 60Hz no drop):
+percobaan 1: load 3
+percobaan 2: load 5 salah 1
+percobaan 3: load 3
+percobaan 4: load 4
+percobaan 5: load 2
+percobaan 6: load 6 salah 2
+percobaan 7: load 4
+percobaan 8: load 4
+percobaan 9: load 4
+percobaan 10: load 3
+percobaan 11: load 3
+percobaan 12: load 5
+percobaan 13: load 6
+percobaan 14: load 1
+percobaan 15: load 4 salah 1
+percobaan 16: load 4
+percobaan 17: load 5
+percobaan 18: load 3
+percobaan 19: load 2
+percobaan 20: load 4
+percobaan 21: load 4
+percobaan 22: load 4 
+percobaan 23: load 5
+percobaan 24: load 4
+percobaan 25: load 5
+percobaan 26: load 3
+percobaan 27: load 5
+percobaan 28: load 3 salah 1
+percobaan 29: load 4 
+percobaan 30: load 3

@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5667340241095736605
+  m_GuidHigh: 2181436677176946102
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5361055833434324455
+      m_GuidHigh: 2293763351190645681
+    m_SerializedTextureGuid:
+      m_GuidLow: 16993285082618344183
+      m_GuidHigh: 14862037567099072523
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Kelana
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5124798035542792753
+      m_GuidHigh: 12173069583635773865
+    m_SerializedTextureGuid:
+      m_GuidLow: 9175164085818279385
+      m_GuidHigh: 9575688140806762171
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Panji
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4811913128330642810
+      m_GuidHigh: 18101762341153437337
+    m_SerializedTextureGuid:
+      m_GuidLow: 14421742783903021567
+      m_GuidHigh: 9183542930606717800
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Rumyang
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5535887826954007006
+      m_GuidHigh: 5437189856911997346
+    m_SerializedTextureGuid:
+      m_GuidLow: 5328963028045564359
+      m_GuidHigh: 11849942781340651225
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Sekar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5162302546370100892
+      m_GuidHigh: 3935664508996718008
+    m_SerializedTextureGuid:
+      m_GuidLow: 18092112624821087756
+      m_GuidHigh: 2578379452929229450
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Sumur1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5711219843599017165
+      m_GuidHigh: 16698946264539955845
+    m_SerializedTextureGuid:
+      m_GuidLow: 16245744306714144492
+      m_GuidHigh: 11739097985943902619
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Sumur2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4816562376498719009
+      m_GuidHigh: 14655093789265032338
+    m_SerializedTextureGuid:
+      m_GuidLow: 17006949372220222430
+      m_GuidHigh: 8444115723717281033
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Tumenggung
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4836996182434991054
+      m_GuidHigh: 16455772854847072952
+    m_SerializedTextureGuid:
+      m_GuidLow: 9742489209425825763
+      m_GuidHigh: 10408325001077093673
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Kendang
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5607459750722609280
+      m_GuidHigh: 11075424146941928377
+    m_SerializedTextureGuid:
+      m_GuidLow: 9359838761364514640
+      m_GuidHigh: 11237128907297911353
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Sumur4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4759652902070070632
+      m_GuidHigh: 9152124142073540774
+    m_SerializedTextureGuid:
+      m_GuidLow: 13039281499767185672
+      m_GuidHigh: 18162299223641142600
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Kotak Alat Musik
+    m_Texture: {fileID: 0}
